@@ -47,6 +47,8 @@ This guide explains how to root the device using Magisk on stock firmware.
 
 Extract `AP_*.tar.md5` and locate `boot.img`.
 
+- I have already get that for you, go see \*\*[Script](./Script/)
+
 ---
 
 ### 2 — Patch Boot Image

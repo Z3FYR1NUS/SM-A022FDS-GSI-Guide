@@ -20,6 +20,11 @@
 
 > **Note:** Any Windows PC capable of running ADB and Odin will work.
 
+## Install ADB
+
+- You can use my `InstallADB.bat` to install ADB at register it in system Path
+- The script will download ADB and put it in `C:\ADB-platform-tools`
+
 ## Recommended GSI Format
 
 Use a GSI that matches your device class:

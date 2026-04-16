@@ -58,9 +58,10 @@ Recommended example:
 
 - **[requirements.md](requirements.md)**: -— what you need before starting
 - **[Important file](./Important%20file/)** -- Necessary file
+- **[Script](./Script/)** -- Script to automate install
 - **[unlock_bootloader.md](unlock_bootloader.md)**: -- Unlock bootloader
 - **[root.md](root.md)**: -- root the phone
-- **[flashing_guide.md](flashing_guide.md)**: -- step-by-step install guide
+- **[flashing guide](flashing.md)**: -- step-by-step install guide
 - **[troubleshooting.md](troubleshooting.md)**: -- guide on contribution
 
 ## Getting Started
@@ -70,7 +71,7 @@ Follow the documentation in this specific order to ensure the best chance of suc
 1. **[Requirements](requirements.md)**: Verify you have the correct Samsung firmware and the necessary drivers/tools.
 2. **[Unlock Bootloader](unlock_bootloader.md)**: first step.
 3. **[Rooting](root.md)**: Patching the AP file is required to disable AVB (Android Verified Boot)
-4. **[Flashing Guide](flashing_guide.md)**: Step-by-step instructions on using Fastbootd to flash the GSI.
+4. **[Flashing Guide](flashing.md)**: Step-by-step instructions on using Fastbootd to flash the GSI.
 5. **[Troubleshooting](troubleshooting.md)**: Read this if you encounter any problem post install, good luck!
 
 ## Important notes
