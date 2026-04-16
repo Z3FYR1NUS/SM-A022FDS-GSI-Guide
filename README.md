@@ -2,6 +2,9 @@
 
 This guide will teach you how to install custom GSI on Samsung A02 (SM-A022F/DS)
 
+- This device is Ass.
+- I hate MT6739ww
+
 ## Warning
 
 This guide is intended for advanced users only.
