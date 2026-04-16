@@ -68,7 +68,7 @@ Recommended example:
 Follow the documentation in this specific order to ensure the best chance of success:
 
 1. **[Requirements](requirements.md)**: Verify you have the correct Samsung firmware and the necessary drivers/tools.
-2. **[Unlock Bootloader](Unlock_bootloader.md)**: first step.
+2. **[Unlock Bootloader](unlock_bootloader.md)**: first step.
 3. **[Rooting](root.md)**: Patching the AP file is required to disable AVB (Android Verified Boot)
 4. **[Flashing Guide](flashing_guide.md)**: Step-by-step instructions on using Fastbootd to flash the GSI.
 5. **[Troubleshooting](troubleshooting.md)**: Read this if you encounter any problem post install, good luck!
