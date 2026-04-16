@@ -22,7 +22,7 @@
 
 ## Install ADB
 
-- You can use my `InstallADB.bat` to install ADB at register it in system Path
+- You can use my `InstallADB.bat` locate in [Script](/Script/) to install ADB at register it in system Path
 - The script will download ADB and put it in `C:\ADB-platform-tools`
 
 ## Recommended GSI Format
