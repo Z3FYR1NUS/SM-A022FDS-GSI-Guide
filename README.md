@@ -2,7 +2,7 @@
 
 This guide will teach you how to install custom GSI on Samsung A02 (SM-A022F/DS)
 
-- This device is Ass.
+- This device is Ass. At 3:42 pm, I use Revanced Manager to mod Youtube Music, now 07:14 PM, it still compile, WTF 😭
 - I hate MT6739ww
 - Result may vary, best of luck! :3
 
