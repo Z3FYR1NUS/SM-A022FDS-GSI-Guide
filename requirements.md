@@ -1,4 +1,4 @@
-# Requirements
+# Requirements — Samsung Galaxy A02 (SM-A022F/DS)
 
 ## Device
 
@@ -8,16 +8,19 @@
 - USB debugging enabled
 - OEM unlocking enabled in Developer Options
 
-## PC tools
+## PC Tools
 
-- Any Windows PC that can run ADB and Odin
-- Samsung USB drivers (`https://odindownload.com/samsung-usb-driver/`)
-- Odin Odin 3.13.1 (`https://odindownload.com/download`)
-- ADB and Fastboot platform tools (`https://developer.android.com/tools/releases/platform-tools`)
-- 7-Zip or any archive tool you want.
-- Fastboot driver (`https://developer.android.com/studio/run/win-usb`)
+| Tool                          | Link                                                        |
+| ----------------------------- | ----------------------------------------------------------- |
+| Samsung USB Drivers           | https://odindownload.com/samsung-usb-driver/                |
+| Odin 3.13.1                   | https://odindownload.com/download                           |
+| ADB & Fastboot Platform Tools | https://developer.android.com/tools/releases/platform-tools |
+| Fastboot USB Driver           | https://developer.android.com/studio/run/win-usb            |
+| 7-Zip (or any archive tool)   | https://www.7-zip.org/                                      |
 
-## Recommended GSI format
+> **Note:** Any Windows PC capable of running ADB and Odin will work.
+
+## Recommended GSI Format
 
 Use a GSI that matches your device class:
 
@@ -29,8 +32,9 @@ Example:
 
 - `system-squeak-arm32_binder64-ab-vndklite-vanilla.img`
 
-## Files to keep as backup
+## Files to Keep as Backup
 
 - Original `boot.img`
+- Patched `magisk_patched.img`
 - Stock firmware package
 - Working GSI image
