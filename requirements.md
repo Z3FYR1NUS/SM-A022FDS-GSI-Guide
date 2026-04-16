@@ -36,5 +36,5 @@ Example:
 
 - Original `boot.img`
 - Patched `magisk_patched.img`
-- Stock firmware package
+- [Stock firmware package](https://samfw.com/firmware/SM-A022F/CAL/A022FXXS3BWH1)
 - Working GSI image

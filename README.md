@@ -47,7 +47,7 @@ Recommended example:
 
 ## Files needed
 
-- Samsung firmware package for SM-A022F
+- Samsung firmware package for SM-A022F/DS
 - ADB and Fastboot platform tools
 - Odin
 - Magisk APK
