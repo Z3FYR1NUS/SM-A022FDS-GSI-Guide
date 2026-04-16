@@ -43,3 +43,7 @@ Example:
 - Patched `magisk_patched.img`
 - [Stock firmware package](https://samfw.com/firmware/SM-A022F/CAL/A022FXXS3BWH1)
 - Working GSI image
+
+## If you already have all of this, go unlock bootloader
+
+- [unlock_bootloader](unlock_bootloader.md)

@@ -76,3 +76,7 @@ fastboot reboot
 - Misc features
 - Scroll down and toggle `Force-disable A2DP offload`
 - Reboot
+
+## If you encounter any problem
+
+- Go see [Troubleshooting Guide](troubleshooting.md)

@@ -122,3 +122,7 @@ uid=0(root)
 3. Reboot
 
 > See `troubleshooting.md` for more recovery steps.
+
+## If you already root, go flashing next
+
+- [Flashing Guide](flashing.md)
