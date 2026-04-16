@@ -18,4 +18,4 @@
 
 ## If you already unlock bootloader
 
-- continue to root the phone \*\*[Rooting guide](root.md)
+- continue to root the phone **[Rooting guide](root.md)**
