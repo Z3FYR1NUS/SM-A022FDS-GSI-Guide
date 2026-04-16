@@ -71,3 +71,7 @@ Recommended example:
 - LineageOS GSI maintainers
 - Samsung firmware tools community
 - XDA forum (https://shorturl.at/WuyPj)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
