@@ -20,7 +20,15 @@ This document covers common issues when installing or running GSIs on the Galaxy
 
 ### Fix
 
-Reboot to fastboot and run:
+- Power off, hold Volume up + Down, connect to PC.
+- Open Odin and uncheck `Auto Reboot` in Options.
+- Flash `fastbootd-recovery.tar.md5` in AP slot.
+- Click start
+- After flashing Fastboot, hold Power + Volume Down
+- The moment the screen turns off, switch to Power + Volume Up instantly.
+- Keep holding till recovery loads.
+- Select `Enter Fastboot`
+- Plug the phone into PC and run
 
 ```powershell
 .\fastboot -w
