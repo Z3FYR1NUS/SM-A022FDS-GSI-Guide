@@ -60,7 +60,7 @@ Recommended example:
 - `root.md` - root the phone
 - `flashing_guide.md` — step-by-step install guide
 - `troubleshooting.md` — common issues and fixes
-- `contribution.md` - guide on contributio
+- `contribution.md` - guide on contribution
 
 ## Important notes
 
