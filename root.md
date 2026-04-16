@@ -85,7 +85,7 @@ Reboot the phone, open Magisk, and allow setup to complete. Root activates autom
 ### 5 — Verify Root
 
 ```powershell
-.\adb shell
+adb shell
 su
 id
 ```

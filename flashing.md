@@ -43,17 +43,17 @@ system-squeak-arm32_binder64-ab-vndklite-vanilla.img
 - Check if the phone is detected
 
 ```text
-.\fastboot devices
+fastboot devices
 ```
 
 - run
 
 ```text
-.\fastboot erase system
-.\fastboot erase cache
-.\fastboot flash system YOUR_GSI.img
-.\fastboot -w
-.\fastboot reboot
+fastboot erase system
+fastboot erase cache
+fastboot flash system YOUR_GSI.img
+fastboot -w
+fastboot reboot
 ```
 
 ## Step 5 — Wait
