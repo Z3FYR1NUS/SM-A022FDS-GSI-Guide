@@ -19,7 +19,7 @@ Flashing a GSI may cause:
 
 ## My Device
 
-- Model: Samsung Galaxy A02 (SM-A022F)
+- Model: Samsung Galaxy A02 (SM-A022F/DS)
 - Android base: Android 11
 - CPU: Mediatek MT6739WW (arm-v7a)
 - Bootloader state: unlocked
