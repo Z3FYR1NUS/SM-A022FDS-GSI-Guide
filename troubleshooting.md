@@ -113,7 +113,7 @@ If it persists, reflash with the correct GSI variant for this device:
 
 ### Symptoms
 
-- `.\fastboot devices` returns nothing
+- `fastboot devices` returns nothing
 - Fastboot commands hang or fail
 
 ### Causes
