@@ -24,7 +24,6 @@ Flashing a GSI may cause:
 ## What this guide covers
 
 - Preparing firmware
-- Patching boot image with Magisk
 - Flashing a GSI image
 - First boot setup
 - Phh Treble settings
