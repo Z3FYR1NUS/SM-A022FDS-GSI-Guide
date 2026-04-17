@@ -33,9 +33,9 @@ You can use my `InstallADB.bat` script to automate the configuration:
 
 ---
 
-## Recommended GSI Format
+## MANDATORY GSI format
 
-To ensure compatibility with the Samsung A02. Please use GSI that match with these specifications.
+You GSI must have these
 
 - **Architecture:** `arm32_binder64`
 - **Partition Type:** `vndklite`
