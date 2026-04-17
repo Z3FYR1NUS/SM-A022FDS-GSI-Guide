@@ -7,7 +7,7 @@
 
 ---
 
-## 2. PC Tools & Drivers
+## PC Tools & Drivers
 
 Ensure the following tools are installed on a Windows environment for compatibility with Odin and ADB.
 
@@ -23,7 +23,7 @@ Ensure the following tools are installed on a Windows environment for compatibil
 
 ---
 
-## 3. Automated ADB Environment Setup
+## Automated ADB Environment Setup
 
 You can use my `InstallADB.bat` script to automate the configuration:
 
@@ -33,7 +33,7 @@ You can use my `InstallADB.bat` script to automate the configuration:
 
 ---
 
-## 4. Recommended GSI Format
+## Recommended GSI Format
 
 To ensure compatibility with the Samsung A02 architecture, select a GSI matching these specifications:
 
@@ -44,6 +44,7 @@ To ensure compatibility with the Samsung A02 architecture, select a GSI matching
 
 ### Examples:
 
+- I've test these both and it working great.
 - **Vanilla Build:** `system-squeak-arm32_binder64-ab-vndklite-vanilla.img`
 - **Go-Apps Build:** `system-squeak-arm32_binder64-ab-vndklite-gogapps.img.xz`
 
@@ -60,4 +61,4 @@ To ensure compatibility with the Samsung A02 architecture, select a GSI matching
 
 ## If you already have all of this, go unlock bootloader
 
-**[Proceed to Unlock Bootloader](unlock_bootloader.md)**
+**[Unlock Bootloader](unlock_bootloader.md)**
