@@ -37,9 +37,9 @@ You can use my `InstallADB.bat` script to automate the configuration:
 
 You GSI must have these
 
-- **Architecture:** `arm32_binder64`
-- **Partition Type:** `vndklite`
-- **Mount Type:** `ab`
+- Architecture: `arm32_binder64`
+- Partition compatibility: `ab`
+- Vendor interface: `vndklite`
 - **Repository:** [Phhusson Treble Experimentations (v416)](https://github.com/phhusson/treble_experimentations/releases/tag/v416)
 
 ### Examples:
