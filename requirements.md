@@ -46,7 +46,7 @@ To ensure compatibility with the Samsung A02 architecture, select a GSI matching
 
 - I've test these both and it working great.
 - **Vanilla Build:** `system-squeak-arm32_binder64-ab-vndklite-vanilla.img`
-- **Go-Apps Build:** `system-squeak-arm32_binder64-ab-vndklite-gogapps.img.xz`
+- **Google-Apps Build:** `system-squeak-arm32_binder64-ab-vndklite-gogapps.img.xz`
 
 ---
 
