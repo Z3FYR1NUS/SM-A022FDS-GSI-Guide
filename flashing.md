@@ -20,14 +20,14 @@ Make sure you have a raw image file like:
 system-squeak-arm32_binder64-ab-vndklite-vanilla.img
 ```
 
-## Step 2 — Flash Fastboot via Odin
+## Step 2 — Flash vbmetar via Odin
 
 - Power off, Hold Volume up + Down, connect to PC.
 - Open Odin and uncheck `Auto Reboot` in Options.
 - Flash `vbmetar.tar` in AP slot. (get that in **[Important file](./Important%20file/)** )
 - Click start
 
-## Step 3 — Flash vbmeta
+## Step 3 — Flash Fastbootd
 
 - Power off, hold Volume up + Down, connect to PC.
 - Open Odin and uncheck `Auto Reboot` in Options.
