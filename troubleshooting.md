@@ -206,7 +206,8 @@ Ignore if the flash completes successfully.
 ## 🔒 10. Recovery
 
 - If you got blue screen with `an error has occurred while updating device software`
-- You can reflash the original OS via ODIN
+- You can reflash the original firmware via ODIN
+- Download original firmware [SM-A022F/DS](https://samfw.com/firmware/SM-A022F/CAL/A022FXXS3BWH1)
 - Put these file in the slot
 - BL: `BL_A022FXXS3BWH1_CL24267853_QB69446539_REV00_user_low_ship_MULTI_CERT.tar.md5`
 - AP: `AP_A022FXXS3BWH1_CL24267853_QB69446539_REV00_user_low_ship_MULTI_CERT_meta_RKEY_OS11.tar.md5`
