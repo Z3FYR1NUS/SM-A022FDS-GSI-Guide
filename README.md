@@ -43,7 +43,7 @@ This guide will teach you how to install custom GSI on Samsung A02 (SM-A022F/DS)
 Recommended example:
 
 - `system-squeak-arm32_binder64-ab-vndklite-vanilla.img`
-- `system-squeak-arm32_binder64-ab-vndklite-gogapps.img.xz`
+- `system-squeak-arm32_binder64-ab-vndklite-gogapps.img`
 
 For details on GSI format requirements, see [requirements.md](requirements.md)
 
