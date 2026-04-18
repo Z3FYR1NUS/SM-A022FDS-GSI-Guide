@@ -72,7 +72,7 @@ Follow these steps **in order** for the best chance of success:
 
 ## Root
 
-- [Root Device(optional)](root.md) — I made this for some one who want to root the phone that on original firmware.
+- [Root Device (optional)](root.md) — I made this for someone who want to root the phone that on original firmware.
 
 ## Important notes
 
