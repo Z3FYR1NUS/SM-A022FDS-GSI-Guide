@@ -33,10 +33,10 @@ This guide will teach you how to install custom GSI on Samsung A02 (SM-A022F/DS)
 ## What this guide covers
 
 - Preparing firmware
-- Root the phone
 - Flashing a GSI image
 - First boot setup
 - Phh Treble settings
+- Root the phone
 
 ## Recommended GSI type
 
@@ -67,9 +67,12 @@ Follow these steps **in order** for the best chance of success:
 
 - [ ] **Step 1:** Check [requirements.md](requirements.md) — Verify firmware, drivers, and tools
 - [ ] **Step 2:** [Unlock Bootloader](unlock_bootloader.md) — Enable custom firmware installation
-- [ ] **Step 3:** [Root Device](root.md) — Patch AP file to disable AVB
-- [ ] **Step 4:** [Flash GSI](flashing.md) — Install the custom system image
-- [ ] **Step 5:** [Troubleshoot](troubleshooting.md) — If needed
+- [ ] **Step 3:** [Flash GSI](flashing.md) — Install custom GSI
+- [ ] **Step 4:** [Troubleshoot](troubleshooting.md) — If needed
+
+## Root
+
+- [Root Device(optional)](root.md) — I made this for some one who want to root the phone that on original firmware.
 
 ## Important notes
 
