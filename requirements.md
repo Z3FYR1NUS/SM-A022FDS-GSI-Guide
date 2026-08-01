@@ -23,14 +23,9 @@ Ensure the following tools are installed on a Windows environment for compatibil
 
 ---
 
-## Automated ADB Environment Setup
+## Install ADB
 
-You can use my `InstallADB.bat` script to automate the configuration:
-
-1. The script will downloads the latest ADB tools.
-2. It put them at `C:\ADB-platform-tools`.
-3. It automatically register ADB to system Path.
-
+Install via `winget install -e --id Google.PlatformTools` and restart your PC
 ---
 
 ## MANDATORY GSI format
